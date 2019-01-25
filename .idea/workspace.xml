@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32b00eec-5c71-40e5-9105-79b686e95482" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-301578580">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7869" />
+          <entry key="XML" value="75" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="208" />
+          <entry key="XML" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/advanced/Advanced.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="981">
+              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../littlefisher/CodeMaker" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../p6spy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../swagger2markup" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../swagger2markup-maven-plugin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../spring/spring-framework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../workspace/spring/spring-framework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../workspace/springfox-demos/spring-java-swagger" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/map/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/intermediate/map/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/create/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/intermediate/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/terminal/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/intermediate/distinct/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/intermediate/filter/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/intermediate/limit/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/intermediate/peek/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/intermediate/sorted/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/intermediate/skip/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/terminal/match/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/terminal/collect/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/terminal/find/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/terminal/foreach/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/terminal/max/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/terminal/min/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/terminal/reduce/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/terminal/toarray/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/base/terminal/toarray/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/base/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/advanced/package-info.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/create/Of.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/intermediate/distinct/Distinct.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/intermediate/filter/Filter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/intermediate/flatmap/FlatMap.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/intermediate/limit/Limit.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/intermediate/map/Map.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/intermediate/peek/Peek.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/intermediate/skip/Skip.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/create/Create.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/model/UserWithCompartor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/model/UserWithComparator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/intermediate/sorted/Sorted.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/find/Find.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/foreach/Foreach.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/match/Match.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/max/Max.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/min/Min.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/reduce/Reduce.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/toarray/toArray.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/toarray/ToArray.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/model/User.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/collect/Collect.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/advanced/package-info.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/model/RepayPlan.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/advanced/GetId.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/advanced/Sum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/advanced/ToMap.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/advanced/Advanced.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Tools/Maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../../Tools/Maven/apache-maven-3.5.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+              <item name="advanced" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="terminal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="terminal" type="462c0819:PsiDirectoryNode" />
+              <item name="collect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.alibabacloud.intellij.config.RootConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/terminal/toarray" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/terminal/reduce" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/terminal/min" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/terminal/max" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/terminal/foreach" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Sum.sum">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Collect.groupingByMapping" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hsjry.java8.stream.base.terminal.collect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hsjry.java8.stream.base.terminal.collect" />
+      <option name="MAIN_CLASS_NAME" value="com.hsjry.java8.stream.base.terminal.collect.Collect" />
+      <option name="METHOD_NAME" value="groupingByMapping" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Collect.groupingByTwoParameters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hsjry.java8.stream.base.terminal.collect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hsjry.java8.stream.base.terminal.collect" />
+      <option name="MAIN_CLASS_NAME" value="com.hsjry.java8.stream.base.terminal.collect.Collect" />
+      <option name="METHOD_NAME" value="groupingByTwoParameters" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetId.getId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hsjry.java8.stream.advanced.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hsjry.java8.stream.advanced" />
+      <option name="MAIN_CLASS_NAME" value="com.hsjry.java8.stream.advanced.GetId" />
+      <option name="METHOD_NAME" value="getId" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum.sum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hsjry.java8.stream.advanced.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hsjry.java8.stream.advanced" />
+      <option name="MAIN_CLASS_NAME" value="com.hsjry.java8.stream.advanced.Sum" />
+      <option name="METHOD_NAME" value="sum" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToMap.toMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hsjry.java8.stream.advanced.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hsjry.java8.stream.advanced" />
+      <option name="MAIN_CLASS_NAME" value="com.hsjry.java8.stream.advanced.ToMap" />
+      <option name="METHOD_NAME" value="toMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Collect.groupingByTwoParameters" />
+      <item itemvalue="JUnit.Collect.groupingByMapping" />
+      <item itemvalue="JUnit.GetId.getId" />
+      <item itemvalue="JUnit.ToMap.toMap" />
+      <item itemvalue="JUnit.Sum.sum" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Sum.sum" />
+        <item itemvalue="JUnit.ToMap.toMap" />
+        <item itemvalue="JUnit.GetId.getId" />
+        <item itemvalue="JUnit.Collect.groupingByMapping" />
+        <item itemvalue="JUnit.Collect.groupingByTwoParameters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32b00eec-5c71-40e5-9105-79b686e95482" name="Default Changelist" comment="" />
+      <created>1548212504591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548212504591</updated>
+      <workItem from="1548212511561" duration="11699000" />
+      <workItem from="1548398607495" duration="5243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Collect_toMap - 2019.01.25 at 15h 08m 08s.xml">
+      <configuration name="Collect.toMap" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Collect_toMapWithThreeParameters - 2019.01.25 at 15h 10m 23s.xml">
+      <configuration name="Collect.toMapWithThreeParameters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Collect_toMapWithFourParameters - 2019.01.25 at 15h 15m 21s.xml">
+      <configuration name="Collect.toMapWithFourParameters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Collect_groupingBy - 2019.01.25 at 15h 18m 46s.xml">
+      <configuration name="Collect.groupingBy" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Collect_groupingByTwoParameters - 2019.01.25 at 15h 22m 48s.xml">
+      <configuration name="Collect.groupingByTwoParameters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Collect_groupingByMapping - 2019.01.25 at 15h 29m 47s.xml">
+      <configuration name="Collect.groupingByMapping" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Collect_groupingByMapping - 2019.01.25 at 15h 31m 38s.xml">
+      <configuration name="Collect.groupingByMapping" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetId_getId - 2019.01.25 at 15h 38m 35s.xml">
+      <configuration name="GetId.getId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ToMap_toMap - 2019.01.25 at 15h 41m 07s.xml">
+      <configuration name="ToMap.toMap" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Sum_sum - 2019.01.25 at 16h 01m 28s.xml">
+      <configuration name="Sum.sum" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16942000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info id="Web" order="3" show_stripe_button="false" sideWeight="0.50760454" side_tool="true" weight="0.24964234" />
+      <window_info id="JavaEE:App" order="4" show_stripe_button="false" sideWeight="0.50760454" side_tool="true" weight="0.24964234" />
+      <window_info id="Favorites" order="5" show_stripe_button="false" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49239543" visible="true" weight="0.3125894" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.24964234" />
+      <window_info id="Alibaba Cloud Explorer" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" weight="0.32908162" />
+      <window_info anchor="bottom" id="Spring" order="5" />
+      <window_info anchor="bottom" id="CheckStyle" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.27261147" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="bottom" id="Code Review" order="15" />
+      <window_info anchor="bottom" id="SonarLint" order="16" />
+      <window_info anchor="bottom" id="Database Changes" order="17" show_stripe_button="false" />
+      <window_info anchor="bottom" id="data-base" order="18" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="19" />
+      <window_info anchor="bottom" id="Messages" order="20" weight="0.3299363" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="2" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Commander" order="4" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info id="Web" order="3" show_stripe_button="false" sideWeight="0.50760454" side_tool="true" weight="0.24964234" />
+      <window_info id="JavaEE:App" order="4" show_stripe_button="false" sideWeight="0.50760454" side_tool="true" weight="0.24964234" />
+      <window_info id="Favorites" order="5" show_stripe_button="false" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49239543" visible="true" weight="0.3125894" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.24964234" />
+      <window_info id="Alibaba Cloud Explorer" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" weight="0.32908162" />
+      <window_info anchor="bottom" id="Spring" order="5" />
+      <window_info anchor="bottom" id="CheckStyle" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.27261147" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="bottom" id="Code Review" order="15" />
+      <window_info anchor="bottom" id="SonarLint" order="16" />
+      <window_info anchor="bottom" id="Database Changes" order="17" show_stripe_button="false" />
+      <window_info anchor="bottom" id="data-base" order="18" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="19" />
+      <window_info anchor="bottom" id="Messages" order="20" weight="0.3299363" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="2" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Commander" order="4" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/base/terminal/match/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/base/terminal/collect/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/base/terminal/find/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/base/terminal/foreach/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/base/terminal/max/package-info.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/stream/ReferencePipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="518" column="33" selection-start-line="518" selection-start-column="33" selection-end-line="518" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/base/terminal/min/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/base/terminal/reduce/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/base/terminal/toarray/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/base/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hsjry/java8/stream/advanced/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/intermediate/distinct/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/intermediate/filter/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../Repository/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/intermediate/distinct/Distinct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/intermediate/filter/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/intermediate/flatmap/FlatMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/create/Create.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="1152" column="15" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#124311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="463" column="69" selection-start-line="463" selection-start-column="69" selection-end-line="463" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../Repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar!/javax/annotation/Nonnull.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/model/UserWithComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/intermediate/sorted/Sorted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/intermediate/skip/Skip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="24" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/intermediate/peek/Peek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/intermediate/map/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="108" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="28" selection-end-column="108" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/intermediate/limit/Limit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="24" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/max/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/function/BinaryOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="526" column="13" selection-start-line="526" selection-start-column="13" selection-end-line="526" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/find/Find.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="37" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="27" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/reduce/Reduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/min/Min.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/max/Max.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" column="38" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/match/Match.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/foreach/Foreach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="28" column="108" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="28" selection-end-column="108" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/toarray/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="53" lean-forward="true" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/toarray/ToArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="850" column="31" selection-start-line="850" selection-start-column="31" selection-end-line="850" selection-end-column="31" />
+          <folding>
+            <element signature="e#16803#16804#0" expanded="true" />
+            <element signature="e#16858#16859#0" expanded="true" />
+            <element signature="e#33990#33991#0" expanded="true" />
+            <element signature="e#34045#34046#0" expanded="true" />
+            <element signature="e#39752#39782#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/base/terminal/collect/Collect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="152" column="8" lean-forward="true" selection-start-line="152" selection-start-column="8" selection-end-line="155" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/advanced/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/model/RepayPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/advanced/GetId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/advanced/Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/advanced/ToMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hsjry/java8/stream/advanced/Advanced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="981">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>bootstrap</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19804741" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19804741" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
